@@ -1,0 +1,398 @@
+,model,countings
+0,MINI Cooper Convertible,15
+1,Aston Martin Rapide,5
+2,Chevrolet Corvette ZR1,6
+3,Volkswagen Golf 4-Door,6
+4,Mercedes-Benz GL-Class,6
+5,Chevrolet Camaro Convertible,16
+6,Chevrolet Aveo,5
+7,Dodge Challenger,11
+8,BMW 1 Series Convertible,10
+9,Infiniti FX,9
+10,Nissan Versa Sedan,13
+11,Nissan Xterra,23
+12,Ford E-350 Super Duty Wagon,16
+13,Hyundai Elantra Sedan,15
+14,Chevrolet Cruze,16
+15,Audi Q7,12
+16,Kia Rio,8
+17,Audi S6,2
+18,Chevrolet Suburban,3
+19,Cadillac Escalade EXT,6
+20,Chevrolet Silverado 1500 Hybrid,12
+21,Dodge Viper Coup,1
+22,Mercedes-Benz E-Class Coupe,4
+23,Mitsubishi Outlander Sport,1
+24,Bentley Continental Supersports Convertible,2
+25,Infiniti G37 Sedan,10
+26,Mitsubishi Eclipse Spyder,7
+27,Maybach 62,5
+28,Toyota FJ Cruiser,9
+29,Volkswagen Jetta,38
+30,Hyundai Genesis Sedan,7
+31,Audi A5 Cabriolet,3
+32,Audi A6 Sedan,5
+33,Ford E-150 Van,12
+34,Volvo C30,20
+35,Suzuki Equator,15
+36,BMW 3 Series Sedan,18
+37,Chevrolet Corvette Z06,9
+38,Audi A5,2
+39,Honda Pilot,20
+40,Suzuki Grand Vitara,15
+41,Infiniti M Hybrid,1
+42,Nissan Altima Coupe,7
+43,Honda Civic Sedan,35
+44,Mercury Mariner,16
+45,Lincoln MKX,6
+46,Chrysler Sebring Convertible,3
+47,Land Rover Range Rover Evoque,5
+48,Ford Focus 5-Door,4
+49,Transit Connect Van,4
+50,GMC Terrain,36
+51,Toyota 4Runner,16
+52,Toyota Camry,26
+53,Lotus Exige,5
+54,Cadillac CTS-V Wagon,4
+55,Infiniti G37 Coupe,12
+56,Kia Rio 5-Door,4
+57,Toyota Venza,8
+58,Infiniti QX56,6
+59,model,1
+60,Bentley Continental GTC,3
+61,GMC Sierra 1500,124
+62,Lexus IS F,2
+63,Bentley Mulsanne,1
+64,Honda Element,11
+65,Lincoln Navigator,10
+66,Infiniti G25,6
+67,Lexus RX,2
+68,Maybach 57,5
+69,Volkswagen CC,10
+70,Jaguar XK Convertible,6
+71,Cadillac STS,13
+72,Cadillac Escalade ESV,24
+73,Mazda CX-7,13
+74,BMW M3 Convertible,2
+75,Hyundai Equus,4
+76,Mazda MX-5 Miata,28
+77,Porsche Cayenne,12
+78,Transit Connect Wagon,4
+79,Lamborghini Gallardo Coupe,3
+80,Buick Lucerne,13
+81,BMW ALPINA B7 Sedan,4
+82,Chevrolet Corvette Convertible,24
+83,Honda Accord Crosstour Hatchback,9
+84,Porsche Cayenne S Hybrid,1
+85,Toyota Corolla,13
+86,Bentley Continental Supersports,1
+87,Honda Civic Coupe,8
+88,Mitsubishi Galant,6
+89,BMW ActiveHybrid 7 Sedan,3
+90,Chevrolet HHR Panel,8
+91,Porsche 911 Cabriolet,12
+92,Volkswagen Passat,6
+93,BMW 5 Series Sports Wagon,2
+94,Subaru Forester,23
+95,Ford Focus Coupe,4
+96,Lexus LS,12
+97,Audi A7,1
+98,Maserati Quattroporte,6
+99,Kia Forte Koup,12
+100,Honda Odyssey,14
+101,Honda Civic Coup,17
+102,Toyota Avalon,5
+103,Bentley Azure T,1
+104,Ford Edge,25
+105,Scion xD,6
+106,Mitsubishi Lancer Evolution,2
+107,Rolls-Royce Ghost,2
+108,Chevrolet Suburban Half-Ton,6
+109,Infiniti IPL G Coupe,4
+110,lexus IS F,1
+111,Lincoln Town Car,4
+112,Toyota Tundra,66
+113,BMW X5,10
+114,Nissan Armada,36
+115,Bentley Brooklands,1
+116,Volvo S40,7
+117,Mercedes-Benz E-Class Wagon,1
+118,Kia Soul,17
+119,GMC Yukon,16
+120,Mazda Mazda2,8
+121,Ford Shelby GT500 Coupe,1
+122,Volkswagen Touareg Hybrid,1
+123,BMW 1 Series Coupe,7
+124,Mercedes-Benz SLK-Class,7
+125,Nissan Pathfinder,33
+126,Ford Fusion,29
+127,BMW X3,4
+128,Aston Martin DB9 Coup,7
+129,Lexus LFA,1
+130,Infiniti G37 Convertible,8
+131,Chevrolet Express,21
+132,Toyota Sienna,33
+133,Chrysler 300,14
+134,MINI Countryman,12
+135,Mercedes-Benz M-Class,8
+136,Lincoln MKS,9
+137,Jaguar XK Coup,8
+138,Acura TSX Sport Wagon,2
+139,Ford Mustang Convertible,24
+140,Land Rover LR4,7
+141,Chevrolet Malibu,19
+142,Volvo V50,5
+143,Chevrolet Sonic Sedan,6
+144,Suzuki SX4 Sportback,4
+145,Kia Optima,16
+146,Acura ZDX,3
+147,Lincoln MKZ,2
+148,Rolls-Royce Phantom Drophead Coupe,2
+149,BMW 5 Series Gran Turismo,7
+150,Land Rover LR2,4
+151,Jaguar XJ,18
+152,Saab 9-5 Sedan,7
+153,Hyundai Tucson,29
+154,Volvo V70,1
+155,Mazda Mazda5,8
+156,Dodge Nitro,18
+157,Chevrolet Tahoe Hybrid,4
+158,Lamborghini Gallardo Spyder,1
+159,Jeep Grand Cherokee,48
+160,Toyota Yaris Sedan,4
+161,Mercedes-Benz CLS-Class,3
+162,Audi A6 Avant,2
+163,Acura TL,8
+164,Aston Martin Virage Coup,2
+165,Infiniti M,13
+166,Toyota Highlander,25
+167,BMW M6 Coup,1
+168,Chrysler Sebring Sedan,3
+169,Volvo XC70,15
+170,Chevrolet Sonic Hatchback,8
+171,GMC Canyon,78
+172,Ford E-150 Wagon,10
+173,Dodge Viper Convertible,1
+174,Hyundai Accent Sedan,6
+175,Suzuki Kizashi,7
+176,Kia Optima Hybrid,1
+177,Volvo C70,6
+178,Mazda CX-9,18
+179,GMC Sierra 1500 Hybrid,8
+180,Cadillac CTS Sport Wagon,28
+181,Nissan 370Z Roadster,11
+182,Honda CR-Z,4
+183,Ford Transit Connect Wagon,2
+184,Mazda Tribute,18
+185,Mercedes-Benz G-Class,4
+186,Audi TT RS,1
+187,Saab 9-3 Convertible,14
+188,Volkswagen GTI 4-Door,4
+189,Audi A8,7
+190,Kia Forte,15
+191,Jeep Liberty,25
+192,Dodge Ram 1500,109
+193,Lincoln MKT,8
+194,Toyota Yaris 3-Door Liftback,7
+195,Mercury Milan,10
+196,Volvo XC90,18
+197,Mercedes-Benz R-Class,6
+198,Bentley Continental Supersports Coupe,1
+199,GMC Savana,41
+200,Subaru Impreza Sedan,13
+201,Audi A3,8
+202,Rolls-Royce Phantom Sedan,4
+203,BMW 3 Series Sports Wagon,12
+204,Kia Rio5,6
+205,Mercedes-Benz CL-Class,8
+206,GMC Acadia,28
+207,Acura RL,3
+208,Hyundai Accent Hatchback,14
+209,Audi A4 Sedan,9
+210,Nissan Titan,70
+211,Ford Escape,32
+212,Volvo S80,6
+213,Audi S5 Coupe,6
+214,Lexus IS C,9
+215,Nissan Juke,2
+216,Mitsubishi Lancer Sportback,3
+217,Scion tC,10
+218,Maserati GranTurismo Convertible,2
+219,Volvo XC60,21
+220,Toyota Matrix,13
+221,Dodge Avenger,11
+222,Subaru Legacy,19
+223,Saab 9-4X,5
+224,Lamborghini Gallardo Coup,1
+225,Mazda Mazdaspeed3,3
+226,BMW M3 Coup,2
+227,Chevrolet Silverado 1500,116
+228,Toyota Land Cruiser,2
+229,Hyundai Santa Fe,27
+230,Volvo S60,4
+231,Acura RDX,4
+232,Suzuki SX4 Sedan,8
+233,Dodge Journey,19
+234,Aston Martin V8 Vantage Roadster,5
+235,Subaru Impreza WRX Hatchback,9
+236,Jaguar XF,12
+237,Infiniti EX,16
+238,Aston Martin Virage Volante,2
+239,Land Rover Range Rover,9
+240,Land Rover Range Rover Sport,10
+241,Acura MDX,3
+242,Ford Ranger,38
+243,BMW M6 Convertible,1
+244,Honda Accord Coupe,15
+245,Ferrari 612 Scaglietti,1
+246,Subaru Impreza WRX Sedan,8
+247,Audi S4 Sedan,3
+248,Cadillac CTS-V Sedan,6
+249,Mercedes-Benz E-Class Sedan,11
+250,Cadillac DTS,8
+251,Volkswagen GTI 2-Door,4
+252,Chevrolet HHR Wagon,14
+253,MINI Cooper Coupe,5
+254,Ford Taurus,15
+255,Ford Expedition,52
+256,Hyundai Genesis Coupe,28
+257,Ford Mustang Coup,25
+258,Ford Fiesta Sedan,6
+259,Jeep Wrangler,52
+260,Bentley Continental GT,3
+261,Lotus Evora,1
+262,Ford Fiesta Hatchback,4
+263,Lexus ES,3
+264,BMW 3 Series Coup,29
+265,Chevrolet Colorado,115
+266,Chevrolet Malibu Hybrid,1
+267,BMW X6,6
+268,Rolls-Royce Phantom Coupe,2
+269,GMC Yukon Hybrid,10
+270,Mitsubishi Lancer,6
+271,MINI Clubman,15
+272,Saab 9-3 SportCombi,13
+273,Volkswagen Routan,12
+274,Mercedes-Benz SL-Class,3
+275,Mercedes-Benz GLK-Class,4
+276,Dodge Grand Caravan,15
+277,Ford E-350 Super Duty Van,16
+278,Mazda Mazda3 5-Door,13
+279,Ford Explorer,26
+280,BMW 1 Series Coup,4
+281,Mazda RX-8,10
+282,Toyota Yaris 5-Door Liftback,8
+283,Dodge Charger,14
+284,Kia Sorento,22
+285,Chrysler Town and Country,9
+286,Buick Enclave,20
+287,Mitsubishi Endeavor,6
+288,Chevrolet Impala,9
+289,Audi R8 Spyder,4
+290,Mazda Mazda6,23
+291,Maybach Landaulet,3
+292,Volkswagen Golf 2-Door,9
+293,Ford Transit Connect Van,2
+294,Chevrolet Traverse,24
+295,Audi A5 Coupe,7
+296,Ford E-250 Van,16
+297,Cadillac CTS-V Coupe,4
+298,Subaru Outback,14
+299,Hyundai Veracruz,13
+300,Mitsubishi Eclipse Coupe,14
+301,Maserati GranTurismo Coup,4
+302,Honda CR-V,14
+303,Nissan Frontier,55
+304,Hyundai Sonata Hybrid,1
+305,Honda Fit,12
+306,Cadillac CTS Coupe,14
+307,Ford Crown Victoria,1
+308,Hyundai Azera,4
+309,Chevrolet Corvette Grand Sport Convertible,24
+310,Dodge Dakota,28
+311,Mercedes-Benz C-Class,20
+312,BMW 6 Series Coup,1
+313,Toyota RAV4,24
+314,Nissan Sentra,9
+315,MINI Cooper Hardtop,15
+316,Dodge Durango,22
+317,Honda Ridgeline,6
+318,Volkswagen Touareg,8
+319,Toyota Sequoia,29
+320,Volkswagen Golf R 4-Door,1
+321,Porsche Boxster,5
+322,BMW Z4 Roadster,5
+323,Ford Mustang Shelby GT500 Coupe,2
+324,Suzuki SX4 Crossover,2
+325,Jeep Patriot,23
+326,Kia Sportage,21
+327,Nissan 370Z Coupe,20
+328,Mazda Mazda3 4-Door,26
+329,Nissan JUKE,2
+330,Lotus Elise,5
+331,Mercury Grand Marquis,2
+332,Toyota Tacoma,38
+333,Subaru Impreza Hatchback,19
+334,Kia Sedona,7
+335,Chevrolet Corvette Grand Sport Coupe,24
+336,Hyundai Sonata,25
+337,Jeep Compass,12
+338,Chevrolet Aveo5,10
+339,Lexus LX,2
+340,Porsche Cayman,5
+341,Chevrolet Suburban Three-Quarter-Ton,4
+342,Buick Verano,3
+343,Audi A4 Avant,3
+344,Aston Martin DB9 Volante,7
+345,Chevrolet Equinox,43
+346,Cadillac SRX Crossover,7
+347,Hyundai Veloster,1
+348,Kia Forte 5-Door,6
+349,Buick Regal,13
+350,Cadillac Escalade,24
+351,Mercedes-Benz E-Class Cabriolet,2
+352,Ford Mustang Shelby GT500 Convertible,3
+353,Buick Lacrosse,22
+354,Volkswagen Golf R 2-Door,1
+355,Audi R8 Coupe,6
+356,Chevrolet Corvette Coupe,24
+357,Nissan Cube,6
+358,Cadillac Escalade Hybrid,10
+359,Jeep Commander,6
+360,Honda Accord Sedan,28
+361,Volkswagen Jetta SportWagen,11
+362,Cadillac SRX,16
+363,Porsche 911 Coupe,16
+364,Mitsubishi Outlander,6
+365,Chrysler 200 Sedan,4
+366,Chevrolet Camaro Coupe,31
+367,BMW 6 Series Convertible,1
+368,Ford Flex,26
+369,Lexus GS,6
+370,BMW M3 Sedan,2
+371,Lexus IS,14
+372,Aston Martin DBS Volante,6
+373,BMW 3 Series Convertible,17
+374,BMW 5 Series Sedan,29
+375,Chevrolet Tahoe,12
+376,Saab 9-3 Sport Sedan,20
+377,Volkswagen Beetle,3
+378,BMW 7 Series,17
+379,Lincoln MKZ Sedan,4
+380,Scion xB,10
+381,Ford Focus Sedan,17
+382,Nissan Versa Hatchback,6
+383,Cadillac CTS Sport Sedan,36
+384,Audi Q5,6
+385,Hyundai Elantra Touring,14
+386,Chrysler 200 Convertible,3
+387,Dodge Caliber,11
+388,GMC Yukon XL,27
+389,Bentley Continental Flying Spur,5
+390,Ford F-150,185
+391,Aston Martin V8 Vantage Coup,5
+392,Chevrolet Avalanche,12
+393,Volkswagen Tiguan,15
+394,Aston Martin V12 Vantage,4
+395,Honda Accord Coup,7
+396,Acura TSX,10
